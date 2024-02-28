@@ -1,0 +1,57 @@
+[
+	{
+		"id": "FORM-01",
+		"name": "Pythagorean theorem",
+		"description": "In mathematics, the Pythagorean theorem or Pythagoras' theorem is a fundamental relation in Euclidean geometry between the three sides of a right triangle. It states that the area of the square whose side is the hypotenuse (the side opposite the right angle) is equal to the sum of the areas of the squares on the other two sides."
+	},
+	{
+		"id": "FORM-02",
+		"name": "Euclidean Geometry",
+		"description": "Euclidean geometry is a mathematical system attributed to Euclid, which includes notions of plane geometry, proportion, and number theory."
+	},
+	{
+		"id": "FORM-03",
+		"name": "Archimedean Solids",
+		"description": "Archimedean solids are convex polyhedra with identical vertices, meaning that each vertex is surrounded by the same combination of faces."
+	},
+	{
+		"id": "FORM-04",
+		"name": "Ada Lovelace's Notes",
+		"description": "Ada Lovelace is known for her notes on Charles Babbage's Analytical Engine, where she described an algorithm to be processed by the machine, making her the world's first computer programmer."
+	},
+	{
+		"id": "FORM-05",
+		"name": "Fermat's Last Theorem",
+		"description": "Andrew Wiles is best known for proving Fermat's Last Theorem, a statement in number theory that had been an unsolved problem for over 350 years."
+	},
+	{
+		"id": "FORM-06",
+		"name": "Cartwright's Theorem",
+		"description": "Mary Cartwright is known for Cartwright's Theorem, which provides conditions for the existence of solutions to certain differential equations."
+	},
+	{
+		"id": "FORM-07",
+		"name": "Von Neumann Architecture",
+		"description": "John von Neumann is best known for his work on the Von Neumann architecture, a design concept for stored-program computers that forms the basis of modern computer architecture."
+	},
+	{
+		"id": "FORM-08",
+		"name": "Uhlenbeck Compactness Theorem",
+		"description": "Karen Uhlenbeck is known for the Uhlenbeck Compactness Theorem, a result in geometric analysis and the calculus of variations."
+	},
+	{
+		"id": "FORM-09",
+		"name": "Poincaré Conjecture",
+		"description": "Grigori Perelman is best known for proving the Poincaré conjecture, a famous problem in the field of topology."
+	},
+	{
+		"id": "FORM-10",
+		"name": "Mirzakhani's Work on Moduli Spaces",
+		"description": "Maryam Mirzakhani is known for her work on the dynamics and geometry of moduli spaces, which earned her the Fields Medal in 2014."
+	},
+	{
+		"id": "FORM-11",
+		"name": "Green-Tao Theorem",
+		"description": "Terence Tao, along with Ben Green, is known for the Green-Tao Theorem, which establishes the existence of arithmetic progressions in the primes."
+	}
+]
