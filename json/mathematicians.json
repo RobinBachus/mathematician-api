@@ -7,7 +7,7 @@
 		"alive": false,
 		"born_bc": true,
 		"birth_date": "570/01/01",
-		"picture": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2018/05/pythagoras_knapp.jpg?w=676&ssl=1",
+		"picture": "../img/pythagoras.jpeg",
 		"field": "Geometry",
 		"main_interests": [
 			"Ethics",
@@ -27,13 +27,13 @@
 	},
 	{
 		"id": "MATH-02",
-		"name": "Euclid",
+		"name": "Euclid²",
 		"description": "Euclid was a Greek mathematician often referred to as the 'Father of Geometry.' He wrote 'Elements,' a comprehensive compilation of knowledge in mathematics at the time, covering topics from geometry to number theory.",
 		"age": 77,
 		"alive": false,
 		"born_bc": true,
 		"birth_date": "330/01/01",
-		"picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Euklid-von-Alexandria_1.jpg/446px-Euklid-von-Alexandria_1.jpg",
+		"picture": "../img/euclid.webp",
 		"field": "Geometry",
 		"main_interests": ["Geometry", "Number Theory"],
 		"best_known_for": {
@@ -50,7 +50,7 @@
 		"alive": false,
 		"born_bc": true,
 		"birth_date": "287/01/01",
-		"picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Archimedes_Palimpsest_folio_3r.jpg/400px-Archimedes_Palimpsest_folio_3r.jpg",
+		"picture": "../img/archimedes.jpg",
 		"field": "Geometry",
 		"main_interests": [
 			"Mathematics",
@@ -73,7 +73,7 @@
 		"alive": false,
 		"born_bc": false,
 		"birth_date": "1815/12/10",
-		"picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Ada_Lovelace_portrait.jpg/400px-Ada_Lovelace_portrait.jpg",
+		"picture": "../img/ada_lovelace.webp",
 		"field": "Algebra",
 		"main_interests": ["Mathematics", "Computing", "Logic"],
 		"best_known_for": {
@@ -90,7 +90,7 @@
 		"alive": true,
 		"born_bc": false,
 		"birth_date": "1953/04/11",
-		"picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Andrew_Wiles.jpg/450px-Andrew_Wiles.jpg",
+		"picture": "../img/andrew_wiles.jpg",
 		"field": "Number Theory",
 		"main_interests": ["Number Theory", "Algebraic Geometry"],
 		"best_known_for": {
@@ -107,7 +107,7 @@
 		"alive": false,
 		"born_bc": false,
 		"birth_date": "1900/12/17",
-		"picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Dame_Mary_Cartwright%2C_aged_21_%28c._1921%29.jpg/400px-Dame_Mary_Cartwright%2C_aged_21_%28c._1921%29.jpg",
+		"picture": "../img/mary_cartwright.jpg",
 		"field": "Applied Mathematics",
 		"main_interests": ["Nonlinear Differential Equations", "Oscillations"],
 		"best_known_for": {
@@ -124,7 +124,7 @@
 		"alive": false,
 		"born_bc": false,
 		"birth_date": "1903/12/28",
-		"picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/JohnvonNeumann-LosAlamos.gif/440px-JohnvonNeumann-LosAlamos.gif",
+		"picture": "../img/john_von_neumann.jpg",
 		"field": "Mathematical Physics",
 		"main_interests": ["Game Theory", "Quantum Mechanics", "Computer Science"],
 		"best_known_for": {
@@ -141,7 +141,7 @@
 		"alive": true,
 		"born_bc": false,
 		"birth_date": "1942/08/24",
-		"picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Karen_Uhlenbeck_%2841942%29.jpg/400px-Karen_Uhlenbeck_%2841942%29.jpg",
+		"picture": "../img/karen_uhlenbeck.jpg",
 		"field": "Geometric Analysis",
 		"main_interests": [
 			"Partial Differential Equations",
@@ -161,7 +161,7 @@
 		"alive": true,
 		"born_bc": false,
 		"birth_date": "1966/06/13",
-		"picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Grigori_Perelman.jpg/448px-Grigori_Perelman.jpg",
+		"picture": "../img/grigori_perelman.jpg",
 		"field": "Topology",
 		"main_interests": ["Topology", "Geometric Analysis"],
 		"best_known_for": {
@@ -178,7 +178,7 @@
 		"alive": false,
 		"born_bc": false,
 		"birth_date": "1977/05/03",
-		"picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Maryam_Mirzakhani_by_OFFICIAL_KLEINODDERFAMILIE_35b.jpg/450px-Maryam_Mirzakhani_by_OFFICIAL_KLEINODDERFAMILIE_35b.jpg",
+		"picture": "../img/maryam_mirzakhani.jpg",
 		"field": "Dynamical Systems",
 		"main_interests": ["Dynamical Systems", "Symmetry"],
 		"best_known_for": {
@@ -195,7 +195,7 @@
 		"alive": true,
 		"born_bc": false,
 		"birth_date": "1975/07/17",
-		"picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/TerenceTao.jpg/440px-TerenceTao.jpg",
+		"picture": "../img/terence_tao.jpg",
 		"field": "Harmonic Analysis",
 		"main_interests": [
 			"Harmonic Analysis",
