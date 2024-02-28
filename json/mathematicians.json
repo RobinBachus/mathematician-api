@@ -7,7 +7,7 @@
 		"alive": false,
 		"born_bc": true,
 		"birth_date": "570/01/01",
-		"picture": "../img/pythagoras.jpeg",
+		"picture": "https://raw.githubusercontent.com/RobinBachus/mathematician-api/main/img/pythagoras.jpeg",
 		"field": "Geometry",
 		"main_interests": [
 			"Ethics",
@@ -33,7 +33,7 @@
 		"alive": false,
 		"born_bc": true,
 		"birth_date": "330/01/01",
-		"picture": "../img/euclid.webp",
+		"picture": "https://raw.githubusercontent.com/RobinBachus/mathematician-api/main/img/euclid.webp",
 		"field": "Geometry",
 		"main_interests": ["Geometry", "Number Theory"],
 		"best_known_for": {
@@ -50,7 +50,7 @@
 		"alive": false,
 		"born_bc": true,
 		"birth_date": "287/01/01",
-		"picture": "../img/archimedes.jpg",
+		"picture": "https://raw.githubusercontent.com/RobinBachus/mathematician-api/main/img/archimedes.jpg",
 		"field": "Geometry",
 		"main_interests": [
 			"Mathematics",
@@ -73,7 +73,7 @@
 		"alive": false,
 		"born_bc": false,
 		"birth_date": "1815/12/10",
-		"picture": "../img/ada_lovelace.webp",
+		"picture": "https://raw.githubusercontent.com/RobinBachus/mathematician-api/main/img/ada_lovelace.webp",
 		"field": "Algebra",
 		"main_interests": ["Mathematics", "Computing", "Logic"],
 		"best_known_for": {
@@ -90,7 +90,7 @@
 		"alive": true,
 		"born_bc": false,
 		"birth_date": "1953/04/11",
-		"picture": "../img/andrew_wiles.jpg",
+		"picture": "https://raw.githubusercontent.com/RobinBachus/mathematician-api/main/img/andrew_wiles.jpg",
 		"field": "Number Theory",
 		"main_interests": ["Number Theory", "Algebraic Geometry"],
 		"best_known_for": {
@@ -107,7 +107,7 @@
 		"alive": false,
 		"born_bc": false,
 		"birth_date": "1900/12/17",
-		"picture": "../img/mary_cartwright.jpg",
+		"picture": "https://raw.githubusercontent.com/RobinBachus/mathematician-api/main/img/mary_cartwright.jpg",
 		"field": "Applied Mathematics",
 		"main_interests": ["Nonlinear Differential Equations", "Oscillations"],
 		"best_known_for": {
@@ -124,7 +124,7 @@
 		"alive": false,
 		"born_bc": false,
 		"birth_date": "1903/12/28",
-		"picture": "../img/john_von_neumann.jpg",
+		"picture": "https://raw.githubusercontent.com/RobinBachus/mathematician-api/main/img/john_von_neumann.jpg",
 		"field": "Mathematical Physics",
 		"main_interests": ["Game Theory", "Quantum Mechanics", "Computer Science"],
 		"best_known_for": {
@@ -141,7 +141,7 @@
 		"alive": true,
 		"born_bc": false,
 		"birth_date": "1942/08/24",
-		"picture": "../img/karen_uhlenbeck.jpg",
+		"picture": "https://raw.githubusercontent.com/RobinBachus/mathematician-api/main/img/karen_uhlenbeck.jpg",
 		"field": "Geometric Analysis",
 		"main_interests": [
 			"Partial Differential Equations",
@@ -161,7 +161,7 @@
 		"alive": true,
 		"born_bc": false,
 		"birth_date": "1966/06/13",
-		"picture": "../img/grigori_perelman.jpg",
+		"picture": "https://raw.githubusercontent.com/RobinBachus/mathematician-api/main/img/grigori_perelman.jpg",
 		"field": "Topology",
 		"main_interests": ["Topology", "Geometric Analysis"],
 		"best_known_for": {
@@ -178,7 +178,7 @@
 		"alive": false,
 		"born_bc": false,
 		"birth_date": "1977/05/03",
-		"picture": "../img/maryam_mirzakhani.jpg",
+		"picture": "https://raw.githubusercontent.com/RobinBachus/mathematician-api/main/img/maryam_mirzakhani.jpg",
 		"field": "Dynamical Systems",
 		"main_interests": ["Dynamical Systems", "Symmetry"],
 		"best_known_for": {
@@ -195,7 +195,7 @@
 		"alive": true,
 		"born_bc": false,
 		"birth_date": "1975/07/17",
-		"picture": "../img/terence_tao.jpg",
+		"picture": "https://raw.githubusercontent.com/RobinBachus/mathematician-api/main/img/terence_tao.jpg",
 		"field": "Harmonic Analysis",
 		"main_interests": [
 			"Harmonic Analysis",
